@@ -5,10 +5,10 @@
   "scripts": {
     "test": "standard"
   },
-  "homepage": "https://github.com/jsreport/jsreport-fs-store-azure-storage-persistence",
+  "homepage": "https://github.com/tgarratt/jsreport-fs-store-azure-storage-persistence",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jsreport/jsreport-fs-store-azure-storage-persistence.git"
+    "url": "git@github.com:tgarratt/jsreport-fs-store-azure-storage-persistence.git"
   },
   "keywords": [
     "jsreport",
